@@ -25,8 +25,8 @@ cards.forEach((card) => {
     const x = ((event.clientX - rect.left) / rect.width) * 100;
     const y = ((event.clientY - rect.top) / rect.height) * 100;
     card.style.background = `
-      radial-gradient(circle at ${x}% ${y}%, rgba(255, 122, 26, 0.24), rgba(255, 190, 75, 0.13) 28%, transparent 44%),
-      linear-gradient(145deg, rgba(18, 12, 28, 0.94), rgba(5, 4, 10, 0.9))
+      radial-gradient(circle at ${x}% ${y}%, rgba(200, 35, 44, 0.24), rgba(239, 90, 95, 0.11) 28%, transparent 44%),
+      linear-gradient(145deg, rgba(21, 19, 20, 0.96), rgba(7, 7, 7, 0.94))
     `;
   });
 
