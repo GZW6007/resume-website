@@ -8,6 +8,7 @@ The website presents:
 
 - A professional profile and personal introduction
 - Education and academic background
+- Professional development certificates (Google 數位人才探索計畫)
 - Work experience in marketing data, business intelligence, and revenue operations
 - Skills covering data analysis, marketing analytics, research, automation, and generative AI
 - A portfolio of selected projects related to competitive intelligence, media monitoring, customer segmentation, pricing analysis, dashboards, and business strategy
@@ -28,6 +29,8 @@ The website presents:
 ├── styles.css    # Layout, responsive styles, and visual design
 ├── script.js     # Client-side interactions
 ├── official.png  # Profile image
+├── Certificate of Completion AI for Generailists.jpg
+├── Certificate of Completion Digital Marketing.jpg
 └── README.md
 ```
 
