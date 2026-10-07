@@ -1,6 +1,7 @@
-# George Wu Resume Website
+# George Wu Resume Website 
 
 A personal resume and portfolio website for George Wu (吳哲誌), focused on marketing data, business analytics, and AI-enabled workflows.
+Visit the live website: [https://gzw6007.github.io/resume-website/](https://gzw6007.github.io/resume-website/)
 
 ## Website Content
 
@@ -33,7 +34,3 @@ The website presents:
 ├── Certificate of Completion Digital Marketing.jpg
 └── README.md
 ```
-
-## Website
-
-Visit the live website: [https://gzw6007.github.io/resume-website/](https://gzw6007.github.io/resume-website/)
